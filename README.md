@@ -1,42 +1,30 @@
 <div align="center">
 
-<pre>
-╔════════════════════════════════╗
-║     💻  My-Python-Programs-CCC  💻     ║
-╚════════════════════════════════╝
-</pre>
+# Python Programs — CCC Practice
 
-## Project Repository
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
-
+*Python solutions for the Canadian Computing Competition (CCC) and general algorithmic problem solving.*
 
 </div>
 
 ---
 
-## About
+## Contents
 
-A Python project repository. See the source code for details.
-
----
-
-## Features
-
-- See source code for details
+- CCC past paper solutions (Junior + Senior)
+- Algorithmic patterns: sorting, searching, dynamic programming, graphs
+- String manipulation and pattern matching
+- Mathematical problem solving
 
 ---
 
-## Tech Stack
+## Tech stack
 
-_See source_
-
----
-
-## Author
-
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`Python 3`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
